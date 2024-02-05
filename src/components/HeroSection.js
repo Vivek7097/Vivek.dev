@@ -23,7 +23,7 @@ const HeroSection = () => {
           <div className='flex flex-col-reverse text-center h-auto gap-3 justify-center relative w-auto 
                           md:gap-[10rem] md:flex-row md:text-left hero-main '>  {/* hero-main */}
                           <div className='flex flex-col max-w-[50rem] relative mx-auto  md:ml-[2rem] md:flex-[0.7] '> {/* hero-text */}
-                              <h1 className='font-[700] text-[4rem] leading-[1.2]  text-[#2d2e32] font-Mulish '>Front-End React Devloper</h1>
+                              <h1 className='font-[700] text-[2.5rem] sm:text-[4rem] leading-[1.2]  text-[#2d2e32] font-Mulish '>Front-End React Devloper</h1>
                               <p className='my-[1em] text-[1.3rem] text-[#555555] leading-[1.6] mb-[5rem] font-[400] font-Mulish md:mb-0'>Hi. I'm Vivek Kumar. A passionate Front-end React Devloper based in Mohali, India</p>
                               <span className='flex flex-wrap gap-[1.6rem] justify-center mt-[-2rem] mb-[4rem]  items-center transition-all duration-200
                                               md:gap-[1.3rem] md:my-[2.5rem] md:justify-normal'>
