@@ -11,7 +11,7 @@ import js from '../images/icons8-javascript-96.png'
 import redux from '../images/icons8-redux-96.png'
 import html from '../images/icons8-html-logo-96.png'
 import ProjectCard from './ProjectCard';
-import resume from '../images/Vivek Kumar (10).pdf (1).pdf'
+import resume from '../images/vivek.pdf'
 
 const HeroSection = () => {
   return (
