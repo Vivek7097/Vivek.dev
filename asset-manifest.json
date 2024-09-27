@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Vivek.dev/static/css/main.0507d2ab.css",
-    "main.js": "/Vivek.dev/static/js/main.3735403e.js",
+    "main.css": "/Vivek.dev/static/css/main.923a31e1.css",
+    "main.js": "/Vivek.dev/static/js/main.aa84e8f2.js",
     "static/js/787.8217d81d.chunk.js": "/Vivek.dev/static/js/787.8217d81d.chunk.js",
     "static/media/Web capture_12-1-2024_15123_hectront.com.jpeg": "/Vivek.dev/static/media/Web capture_12-1-2024_15123_hectront.com.425d571c4b00419fca1a.jpeg",
     "static/media/Web capture_11-1-2024_192652_themovielist09.netlify.app.jpeg": "/Vivek.dev/static/media/Web capture_11-1-2024_192652_themovielist09.netlify.app.89db2f807e54348d0634.jpeg",
-    "static/media/vivek.png": "/Vivek.dev/static/media/vivek.780bd1dd9f2c6dc3a0e6.png",
+    "static/media/vivek.png": "/Vivek.dev/static/media/vivek.435049154edd66596c99.png",
     "static/media/vivek.pdf": "/Vivek.dev/static/media/vivek.8076209d996dd57ef746.pdf",
     "static/media/about-img.webp": "/Vivek.dev/static/media/about-img.62b47e7f183d4b4e9feb.62b47e7f183d4b4e9feb.webp",
     "static/media/Web capture_5-2-2024_232732_passwordgenra.netlify.app.jpeg": "/Vivek.dev/static/media/Web capture_5-2-2024_232732_passwordgenra.netlify.app.d41de84fed5596b07cb8.jpeg",
     "static/media/logo.svg": "/Vivek.dev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Vivek.dev/index.html",
-    "main.0507d2ab.css.map": "/Vivek.dev/static/css/main.0507d2ab.css.map",
-    "main.3735403e.js.map": "/Vivek.dev/static/js/main.3735403e.js.map",
+    "main.923a31e1.css.map": "/Vivek.dev/static/css/main.923a31e1.css.map",
+    "main.aa84e8f2.js.map": "/Vivek.dev/static/js/main.aa84e8f2.js.map",
     "787.8217d81d.chunk.js.map": "/Vivek.dev/static/js/787.8217d81d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0507d2ab.css",
-    "static/js/main.3735403e.js"
+    "static/css/main.923a31e1.css",
+    "static/js/main.aa84e8f2.js"
   ]
 }
