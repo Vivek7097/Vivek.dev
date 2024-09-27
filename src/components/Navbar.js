@@ -9,8 +9,8 @@ const Navbar = () => {
 
   return (
     <div className={`
-      max-w-[1400px] w-[100%] mx-auto  py-[1.25rem] px-[2rem] shadow-md
-     flex justify-between items-center fixed z-50 bg-white
+      max-w-[107rem] mx-auto  py-[1.25rem] px-[2rem] shadow-md
+     flex justify-between items-center z-50 bg-white
      font-Mulish `}>
         <a href='#start' className='text-xl font-[1000]  text-[#35363c] transition-all duration-500'>Vivek.dev</a>
         <ul className='gap-10 font-semibold hidden sm:flex text-lg text-[#35363c] '>

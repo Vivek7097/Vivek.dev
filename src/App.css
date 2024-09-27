@@ -61,7 +61,7 @@
     width: 15rem;
     height: 17rem;
     background-size: cover;
-    background-position: center center;
+    background-position: center top;
     background-repeat: no-repeat;
     border: 3px solid #2d2e32;
   }

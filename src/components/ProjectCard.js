@@ -7,9 +7,9 @@ import '../App.css';
 
 const ProjectCard = () => {
     return (
-    <>
+    <div className=" snap-y snap-mandatory ">
         {/* Project 1 */}
-        <div className="bg-white p-[20px] mx-auto flex flex-wrap justify-center rounded-[15px]  gap-4 mb-[20px]">
+        <div className=" snap-start bg-white p-[20px] mx-auto flex flex-wrap justify-center rounded-[15px]  gap-4 mb-[20px]">
             <div className="max-w-[30rem] w-[100%] h-[20rem] overflow-hidden rounded-[15px]">
                 <img
                 className="w-[100%] h-[100%] object-cover object-top hover:object-bottom transition-all duration-[1.5s]"
@@ -40,7 +40,7 @@ const ProjectCard = () => {
             </div>
         </div>
         {/* Project 2 */}
-        <div className="bg-white p-[20px] mx-auto flex flex-wrap-reverse justify-center rounded-[15px]  gap-4 mb-[20px]">
+        <div className="snap-start bg-white p-[20px] mx-auto flex flex-wrap-reverse justify-center rounded-[15px]  gap-4 mb-[20px]">
             <div className="flex-[1] min-w-[15rem] px-[10%] flex flex-col justify-center text-center  p-[1rem]">
                 <h2 className="font-[700] text-lg uppercase mb-[2rem]">Hectront<span className="font-[600] text-slate-500">(Nov 2023)</span></h2>
                 <p className="text-slate-500 font-[500] text-lg"> Created a portfolio website for Hectront, a 2D/3D modeling company,
@@ -71,7 +71,7 @@ const ProjectCard = () => {
             </div>
         </div>
             {/* project 3 */}
-            <div className="bg-white p-[20px] mx-auto flex flex-wrap justify-center rounded-[15px]  gap-4 mb-[20px]">
+            <div className=" snap-start bg-white p-[20px] mx-auto flex flex-wrap justify-center rounded-[15px]  gap-4 mb-[20px]">
             <div className="max-w-[30rem] w-[100%] h-[20rem] overflow-hidden rounded-[15px]">
                 <img
                 className="w-[100%] h-[100%] object-cover object-top hover:object-bottom transition-all duration-[1.5s]"
@@ -82,7 +82,7 @@ const ProjectCard = () => {
             <div className="flex-[1] min-w-[15rem] px-[10%] flex flex-col justify-center text-center  p-[1rem]">
                 <h2 className="font-[700] text-lg uppercase mb-[2rem]">Password Generator<br/><span className="font-[600] text-slate-500">(March 2023)</span></h2>
                 <p className="text-slate-500 font-[500] text-lg">This web app creates random and secure passwords using HTML, CSS, and JavaScript. Users can adjust the password length and character types to suit their needs. The app also allows users to copy the password and see its strength with a visual indicator.</p>
-                <div className="my-[1rem]">
+                <div className="my-[1rem] flex flex-wrap justify-center">
                     <p className=" inline px-[12px] py-[5px] shadow-md text-xl font-[700] mx-[10px]">HTML/CSS</p>
                     <p className=" inline px-[12px] py-[5px] shadow-md text-xl font-[700] mx-[10px]">JavaScript</p>
                 </div>
@@ -100,7 +100,7 @@ const ProjectCard = () => {
             </div>
         </div>
        
-    </>
+    </div>
     )
 
 }
